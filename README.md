@@ -1,10 +1,10 @@
 # restaurant_app
 
-A new Flutter project.
+A new Flutter project for submission 1 fundamental flutter on SIB-Dicoding.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with JSON data on local asset..
 
 A few resources to get you started if this is your first Flutter project:
 
